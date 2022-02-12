@@ -1,3 +1,2 @@
 First GitKraken change
-
-Hello World
+Second GitKraken Change
